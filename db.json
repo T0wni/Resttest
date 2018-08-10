@@ -1,11 +1,14 @@
-{
-  "posts": [
+[
     {
-      "id": 1,
-      "title": "hello"
+        "resourceName": "CRU0101", "amount": 100
+    },
+    {
+        "resourceName": "NRU02", "amount": 8
+    },
+    {
+        "resourceName": "EAS0102", "amount": 6
+    },
+    {
+        "resourceName": "EAS0103", "amount": 2
     }
-  ],
-  "profile": {
-    "name": "towni"
-  }
-}
+]
