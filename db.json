@@ -1,5 +1,4 @@
-{
-    "data" : [
+[
         {
             "resourceName": "CRU0101", "amount": 100
         },
@@ -12,5 +11,5 @@
         {
             "resourceName": "EAS0103", "amount": 2
         }
-    ]
-}
+]
+
