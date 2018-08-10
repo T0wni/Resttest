@@ -1,16 +1,16 @@
 {
         "data" : [
                 {
-                    "resourceName": "CRU0101", "amount": 100
+                    "resourceName": "CRU0101", "amount": 15
                 },
                 {
-                    "resourceName": "NRU02", "amount": 8
+                    "resourceName": "NRU02", "amount": 26
                 },
                 {
-                    "resourceName": "EAS0102", "amount": 6
+                    "resourceName": "EAS0102", "amount": 37
                 },
                 {
-                    "resourceName": "EAS0103", "amount": 2
+                    "resourceName": "EAS0103", "amount": 48
                 }
         ]
 }
